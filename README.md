@@ -1,6 +1,6 @@
 #Expense Tracker 
 A modern React application for tracking personal expenses with filtering, sorting, and data visualization capabilities.
-### Installation ⚙
+### Installation 
 1. Clone the repository:
    ```bash
    git@github.com:Gmaxwell1234/ExpenseTracker.git
